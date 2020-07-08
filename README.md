@@ -11,3 +11,5 @@ foo # bar baz
 This is depicted in [bar] or [any].
 
 [bar]: http://example.com
+
+This is not a link [foo] (http://example.com). 
