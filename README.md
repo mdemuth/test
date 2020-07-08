@@ -12,4 +12,5 @@ This is depicted in [bar] or [any].
 
 [bar]: http://example.com
 
-This is not a link [foo] (http://example.com). 
+This is not a link [dizzle] (http://example.com) although it will detect the url but here [fizzle] (/foo.html) it'll not. 
+
